@@ -31,7 +31,6 @@ extendWebpack(cfg) {
     loader: "shebang",
   })
 },
-},
 ```
 
 ## License
